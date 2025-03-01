@@ -1,0 +1,11 @@
+.first {
+    font-size:50px;
+    color:black;
+    font-weight: bold;
+    text-align: center;
+}
+.second {
+    color:gray;
+    font-size:30px;
+    text-align: center;
+}
